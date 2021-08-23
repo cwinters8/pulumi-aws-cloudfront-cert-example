@@ -1,0 +1,6 @@
+config:
+  aws:region: us-west-2
+  pulumi-aws-cloudfront-cert-example:bucketName: icc-web-test
+  pulumi-aws-cloudfront-cert-example:domain: lgbtqhealthdirectory.org
+  pulumi-aws-cloudfront-cert-example:hostedZoneId:
+    secure: AAABAHaj6UJUljJsfK195B0Qcxe1gHti4HXUWLI3uFf1ZZ5bouI5owiv6GTT5v9nrQjq32A=
